@@ -3,7 +3,7 @@ import Navbar from "./components/Navbar";
 import Sidebar from "./components/Sidebar";
 import { Route, Routes } from "react-router-dom";
 import Add from "./pages/Add";
-import List from "./pages/list";
+import List from "./pages/List";
 import Order from "./pages/Order";
 import Login from "./components/Login";
 import { ToastContainer, toast } from "react-toastify";
